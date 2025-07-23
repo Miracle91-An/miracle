@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://miracleaneke.online/sitemap.xml
